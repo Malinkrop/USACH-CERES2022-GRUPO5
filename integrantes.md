@@ -4,6 +4,6 @@
 |-------|--------|------------|
 |Rodrigo|Higuera|rodrigoghm|
 |Luis|Barrera|luisbarre2003|
-|Mauricio|Ulloa|malinkrop
+|Mauricio|Ulloa|malinkrop|
 |Elba   |Guerra | dobenna  |
 |Daniel |Hermosilla|d-hermosillarodriguez|
